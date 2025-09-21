@@ -1,9 +1,21 @@
 console.log ("Hello World")
 
 let nama = "Hujan Badai";
+let angka = 20;
+let desimal = 10.5;
+let benar = true;
+let salah = false;
+let kosong;
 
 console.log (nama)
+console.log (angka)
+console.log (desimal)
+console.log (benar)
+console.log (salah)
+console.log (kosong)
 
+
+// operasi aritmatika
 let a = 10;
 let b = 2;
 
