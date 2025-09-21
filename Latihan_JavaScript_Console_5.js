@@ -1,5 +1,12 @@
 console.log ("Hello World")
 
+// sintaks dasar JavaScript
+
+let teks = "Selamat Belajar JavaScript";
+console.log (teks);
+
+// tipe data
+
 let nama = "Hujan Badai";
 let angka = 20;
 let desimal = 10.5;
@@ -49,3 +56,22 @@ console.log (umur);
 console.log (tinggi);
 console.log (menikah);
 console.log (pekerjaan);
+
+// percabangan
+
+let x = 10;     
+
+if (x == 20) {
+    console.log ("x sama dengan 20");
+}           
+else if (x == 30) {
+    console.log ("x sama dengan 30");
+}
+
+else if (x == 10) {
+    console.log ("x sama dengan 10");
+}
+
+else {
+    console.log ("x tidak sama dengan 10, 20, atau 30");
+}
