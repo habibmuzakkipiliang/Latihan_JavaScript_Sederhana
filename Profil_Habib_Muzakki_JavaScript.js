@@ -7,9 +7,9 @@ let sekolah = "MAN 2 KOTA SERANG"
 let tinggi = "172 cm"
 let berat = "60 kg"
 let darah = "B +"
-let statue = "Anak PP"
+let statum = "Anak PP"
 let ig = "habib_muzakki_piliang"
-let tiktok = "habib_muzakki_piliang"
+let tiktok = "habib_muzakki_piliang22"
 let lomba = "OSN-K Informatika 2025"
 let tambah = "SSO, RSCI, IOS Informatika 2025"
 
@@ -21,7 +21,7 @@ console.log ("Tahun lahir :", tahunLahir)
 console.log ("Tinggi :", tinggi)
 console.log ("Berat :", berat)
 console.log ("Darah :", darah)
-console.log ("Status :", statue)
+console.log ("Status :", statum)
 console.log ("Sekolah :", sekolah)
 console.log ("Instagram :", ig)
 console.log ("Tiktok :", tiktok)
