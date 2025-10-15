@@ -6,10 +6,10 @@ let ob = {
     "tinggi" : "172 cm",
     "berat" : "60 kg",
     "darah" : "B +",
-    "status" : "Anak PP",
+    "statum" : "Anak PP",
     "sekolah" : "MAN 2 Kota Serang",
     "ig" : "habib_muzakki_piliang",
-    "tiktok" : "habib_muzakki_piliang",
+    "tiktok" : "habib_muzakki_piliang22",
 }
 
 console.log ("Nama :", ob ["nama"])
@@ -26,7 +26,7 @@ console.log ("Berat :", ob ["berat"])
 
 console.log ("Darah :", ob ["darah"])
 
-console.log ("Status :", ob ["status"])
+console.log ("Status :", ob ["statum"])
 
 console.log ("Sekolah :", ob ["sekolah"])
 
