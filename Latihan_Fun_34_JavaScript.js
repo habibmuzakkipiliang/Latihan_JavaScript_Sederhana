@@ -2,7 +2,7 @@
 
 console.log ("Hello World by JavaScript")
 
-// sintaks dasar
+// sintaks dasar JavaScript
 
 const r = 23.4
 var h = 23
@@ -172,14 +172,24 @@ let nilai = 5
 switch (nilai) {
     case 1:
         console.log ("Kecil")
+        break
+        
     case 2:
         console.log ("Sedang")
+        break
+        
     case 3:
         console.log ("Besar")
+        break
+    
     case 4:
         console.log ("Sangat besar")
+        break
+        
     case 5:
         console.log ("Mega besar")
+        break
+        
     default:
     console.log ("Biasa")
 }
